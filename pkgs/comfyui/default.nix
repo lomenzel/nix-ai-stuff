@@ -9,7 +9,7 @@
 }:
 python3Packages.buildPythonApplication rec {
   pname = "comfyui";
-  version = "0.1.0";
+  version = "0.2.4";
   pyproject = true;
 
   src = fetchFromGitHub {
