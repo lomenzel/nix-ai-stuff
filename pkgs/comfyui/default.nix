@@ -16,7 +16,7 @@ python3Packages.buildPythonApplication rec {
     owner = "comfyanonymous";
     repo = "ComfyUI";
     rev = "v${version}";
-    hash = "sha256-cHAcKef2XbHIVEVX62VKBTOsRNdACBMowGtQB0XHylM=";
+    hash = "sha256-51osMtGrVdnu4L5xUa19ycKoH8cx3thVp7JsjU/1OMw=";
   };
 
   dependencies = with python3Packages; [
