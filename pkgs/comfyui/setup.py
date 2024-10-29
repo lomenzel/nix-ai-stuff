@@ -35,5 +35,6 @@ setup(
         "api_server.routes.internal",
         "api_server.services",
         "api_server.utils",
+        "utils.extra_config",
     ],
 )
